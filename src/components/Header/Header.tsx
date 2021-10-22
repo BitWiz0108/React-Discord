@@ -60,7 +60,7 @@ export default function Header() {
           <ActiveUserList />
         </SwipeableDrawer>
         <Typography variant="h6">{title} </Typography>
-        <Link href="https://github.com/ericellb/React-Discord-Clone" target="_blank" style={{ color: 'white' }}>
+        <Link href="https://github.com/BitWiz0108/React-Discord-Clone" target="_blank" style={{ color: 'white' }}>
           <Tooltip title="Check me out on Github!" className="tooltip">
             <IconButton>
               <SvgIcon>
