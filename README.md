@@ -11,6 +11,24 @@ This website also comes with the  back-end api written in Node.js
 ![layout image](public/app.png)
 
 
+## Stack
+- Create React App
+- Node
+- Eslint Airbnb
+- Prettier
+- Yarn
+- Redux
+- MySql
+- redux-thunk
+- react-intl - es, pt-BR and en
+- Material-ui and Laboratoria-ui
+- Husky - Git Hooks
+- Fetch - HTTP Request
+- Install
+- yarn
+- yarn start
+
+
 ## Features
 
 Implemented Features
@@ -30,20 +48,10 @@ Implemented Features
 - [x] Convert to Typescript
 - [x] Voice Chat (Buggy, but main features work)
 
- Features
-## Stack
-- Create React App
-- Node
-- Eslint Airbnb
-- Prettier
-- Yarn
-- Redux
-- MySql
-- redux-thunk
-- react-intl - es, pt-BR and en
-- Material-ui and Laboratoria-ui
-- Husky - Git Hooks
-- Fetch - HTTP Request
-- Install
-- yarn
-- yarn start
+ 
+
+
+## Contact Me
+
+     http://github.com/BitWiz0108
+
