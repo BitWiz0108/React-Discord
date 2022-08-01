@@ -1,14 +1,12 @@
 # React Discord Clone
 
-> Functional Discord Clone written in Typescript using React, Socket IO, NodeJS, Express and MySQL
+> This is the Discord website written in Typescript using React, Soket IO, Node.JS, Express and My SQL.
+This website is developed from ground up using Reaact.Js.
+The live version of this is available at the following URL.
+        http://BitWiz0108.github.io/React-Discord-Clone
 
-View the live verison at -> http://BitWiz0108.github.io/React-Discord-Clone
+This website also comes with the  back-end api written in Node.js
 
-Check out the backend code! -> https://github.com/BitWiz0108/React-Discord-API
-
-** NOTE - This project is not currently maintained. **
-
-Originally started as a simple chatting application to test my Frontend + Backend skills, magically turned into a Discord Clone.
 
 ![layout image](public/app.png)
 
@@ -32,10 +30,20 @@ Implemented Features
 - [x] Convert to Typescript
 - [x] Voice Chat (Buggy, but main features work)
 
-
-## License
-
-Copyright Eric Ellbogen 2019
-
-- This project is under the **GNU V3** license. [Find it here]
-(https://github.com/BitWiz0108/React-Discord-Clone/blob/master/LICENSE).
+ Features
+## Stack
+- Create React App
+- Node
+- Eslint Airbnb
+- Prettier
+- Yarn
+- Redux
+- MySql
+- redux-thunk
+- react-intl - es, pt-BR and en
+- Material-ui and Laboratoria-ui
+- Husky - Git Hooks
+- Fetch - HTTP Request
+- Install
+- yarn
+- yarn start
